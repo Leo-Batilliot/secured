@@ -11,5 +11,5 @@ to secure large amount of data in an encrypted hashtable
 - **`ht_new`** : Create a new hashtable and give it a pointer to a hash function
 - **`ht_search`** : Search data using it's key in a hashtable
 ## Usage
-use **`make`** to create the **`secured`** lib  
+use **`make`** to create the **`libhashtable.a`** lib  
 you can use it by compiling the lib with your program
